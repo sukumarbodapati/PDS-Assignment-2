@@ -2,7 +2,7 @@
 
 #Sukumar Bodapati
 
-#16233565
+#16326105
 
 Tak 1:Set a seed (to ensure work reproducibility) and take a random sample of  25 observations and find the mean Glucose and highest Glucose values of this sample and compare these statistics with the population statistics of the same variable. You should use charts for this comparison.    (5 points) 
 
